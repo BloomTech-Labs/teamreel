@@ -9,3 +9,4 @@ Team Real strives to be the best platform of choice for teams to practice their 
 
 ## 😫 Problem
 Submitting video responses to prompts to be reviewed by a team lead and peers is clumbsy and inefficient. Wasting lots of time trying to get everyone to watch eachothers videos and provide responses results in no responses.
+[Problem Details and Exploration](/teamreel/problem)
